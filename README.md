@@ -5,7 +5,7 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=Yuvraj188&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
-👋 Hi, I’m Yuvraj Singh Rathore<br>🌱 I’m currently learning Data Structures,Django <br>🔭 Working on an [Railway Reservation System]() using Django, as an internship project by Banaras Locomotive Works(Indian Railways).<br>👯 I’m looking to collaborate on Machine Learning<br>👨‍💻 Check out my coding profile on HackerRank<br>📫 How to reach me shyamsingh78790@gmail.com<br>⚡ Fun fact I am funny 😅
+👋 Hi, I’m Yuvraj Singh Rathore<br>🌱 I’m currently learning Data Structures,Django <br>🔭 Working on an [Railway Reservation System]() using Django, as an internship project by Banaras Locomotive Works(Indian Railways).<br>👯 I’m looking to collaborate on Machine Learning<br>👨‍💻 Check out my coding profile on HackerRank<br>📫 How to reach me ythor203@gmail.com<br>⚡ Fun fact I am funny 😅
 
 
 ## 🌐 Socials:
@@ -29,11 +29,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shyam165&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Yuvraj188&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
