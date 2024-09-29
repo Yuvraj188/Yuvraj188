@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh Rathore</h1>
 <h3 align="center">3rd-year Computer Science Engineering Student | Tech Enthusiastic and keen Learner 🙂.</h3>
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="3D Cartoon Using Laptops">
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="3D Cartoon Using Laptops"> 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Yuvraj188&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
