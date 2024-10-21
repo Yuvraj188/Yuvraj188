@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh Rathore</h1>
 <h3 align="center">3rd-year Computer Science Engineering Student | Tech Enthusiastic and keen Learner 🙂.</h3>
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="3D Cartoon Using Laptops"> 
+<img align="center" width="100%" src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx" alt="3D Cartoon Using Laptops"> 
 <div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
 <!-- [![](https://visitcount.itsvg.in/api?id=Yuvraj188&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
