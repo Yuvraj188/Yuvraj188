@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh Rathore</h1>
 <h3 align="center">3rd-year Computer Science Engineering Student | Tech Enthusiastic and keen Learner 🙂.</h3>
-<img align="center" width="100%" src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx" alt="3D Cartoon Using Laptops"> 
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
-<!-- [![](https://visitcount.itsvg.in/api?id=Yuvraj188&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+
 
 # 💫 About Me:
 👋 Hi, I’m Yuvraj Singh Rathore<br>🌱 I’m currently learning Data Structures,Django <br>🔭 Working on an [Railway Reservation System]() using Django, as an internship project by Banaras Locomotive Works(Indian Railways).<br>👯 I’m looking to collaborate on Machine Learning<br>👨‍💻 Check out my coding profile on HackerRank<br>📫 How to reach me ythor203@gmail.com<br>⚡ Fun fact I am funny 😅
